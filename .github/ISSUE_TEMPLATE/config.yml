@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Not sure which repo? Ask on the Hub
+    url: https://github.com/Open-Muscle/OpenMuscle-Hub/issues/new/choose
+    about: Open a cross-repo or where-does-this-go question on the OpenMuscle Hub.
+  - name: OpenMuscle website
+    url: https://openmuscle.org
+    about: Project overview, build guides, and background.

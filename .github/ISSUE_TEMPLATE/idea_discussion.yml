@@ -1,0 +1,40 @@
+name: Idea / discussion
+description: A concept, direction, or open question that is not yet a concrete change
+title: "[Idea]: "
+labels: ["idea", "discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas are first-class contributions. You do not need to implement
+        anything to be credited. If your idea ships, you will be added to
+        CONTRIBUTORS.md and credited on the pull request that implements it.
+  - type: input
+    id: area
+    attributes:
+      label: Area
+      description: Which device, repo, or part of the ecosystem does this touch?
+      placeholder: "e.g. FlexGrid v4 interconnect, ML pipeline, XR app"
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: Describe the concept or direction. Rough is fine.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it matters
+      description: What would this improve or unlock?
+    validations:
+      required: false
+  - type: textarea
+    id: open-questions
+    attributes:
+      label: Open questions
+      description: Anything you are unsure about or want input on.
+    validations:
+      required: false
