@@ -18,8 +18,20 @@ Link the issue or PR where the contribution happened so the trail stays visible.
 | Name / handle | Contribution | Reference |
 |---------------|--------------|-----------|
 | [@TURFPTAx](https://github.com/turfptax) | Founder, hardware and firmware design across the ecosystem | [openmuscle.org](https://openmuscle.org) |
+| [@HeatRIderHR](https://github.com/HeatRIderHR) (Kyle.T.Y) | 💡 SD card and bridge/interposer PCB ideas, 🐛 documentation report | [#1](https://github.com/Open-Muscle/OpenMuscle-Hub/issues/1), [#2](https://github.com/Open-Muscle/OpenMuscle-Hub/issues/2), [#3](https://github.com/Open-Muscle/OpenMuscle-Hub/issues/3) |
+
+## Emoji key
+
+Contribution types follow the [All Contributors](https://allcontributors.org/docs/en/emoji-key) emoji key:
+
+- 💡 ideas and planning
+- 🐛 bug reports
+- 📖 documentation
+- 💻 code
+- 🎨 design
+- 🔧 tooling
 
 <!--
 Example idea-only row:
-| @somebody | Suggested the 19-to-8 bridge PCB for FlexGrid | Open-Muscle/OpenMuscle-FlexGrid#NN |
+| @somebody | 💡 Suggested the 19-to-8 bridge PCB for FlexGrid | Open-Muscle/OpenMuscle-FlexGrid#NN |
 -->
