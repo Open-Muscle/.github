@@ -26,6 +26,7 @@ requests on the repo that owns the work.
 | LASK5 labeler | [OpenMuscle-LASK5](https://github.com/Open-Muscle/OpenMuscle-LASK5) | Handheld labeler wand hardware and docs |
 | Shared software / pipeline | [OpenMuscle-Software](https://github.com/Open-Muscle/OpenMuscle-Software) | PC tooling, ML pipeline, shared firmware |
 | AR / XR | [OpenMuscle-AR](https://github.com/Open-Muscle/OpenMuscle-AR) | WebXR client, future native headset app |
+| Shared KiCad / CAD parts | [OpenMuscle-Library](https://github.com/Open-Muscle/OpenMuscle-Library) | Symbols, footprints, 3D models, mechanical parts shared across devices |
 | Band (legacy) | [OpenMuscle-Band](https://github.com/Open-Muscle/OpenMuscle-Band) | Original 12-sensor armband |
 
 Not sure which repo? Open an issue on the
